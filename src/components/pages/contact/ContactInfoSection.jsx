@@ -12,7 +12,7 @@ const locations = [
     phone: '+1 (984) 687-6475',
     phoneLink: '+19846876475',
     email: 'info@techhiveit.com',
-    hours: '09:00 - 18:00 IST',
+    hours: '09:00 - 18:00 EST',
     mapQuery: encodeURIComponent('215 East Bay Street, Suite 201K, Charleston, SC 29401'),
     image: hydImage,
   },
