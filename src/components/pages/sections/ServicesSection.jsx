@@ -42,14 +42,7 @@ const services = [
     color: 'from-red-500 to-red-500',
     path: '/services/it-solutions'
   },
-  {
-    title: 'Visa Sponsorship',
-    description: 'Navigate your visa journey with confidence through our in-house immigration team providing full H1B and Green Card support.',
-    image: visaSponsorshipImg,
-    icon: Globe,
-    color: 'from-blue-500 to-red-500',
-    path: '/services/visa-sponsorship'
-  },
+
 ];
 
 const ServiceCard = ({ service, index }) => (
